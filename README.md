@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 🔭 I’m currently working on HCMUS as a student
+- 🔭
 -->
 <!--
 **huytunguyenn/huytunguyenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
