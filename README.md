@@ -1,6 +1,3 @@
-### Hi there 👋 
-- 🔭
-
 ### Hi there 👋
 - 🏫 I am currently studying for a bachelor's degree majoring in Software Engineering at **Ho Chi Minh University of Science**
 - 🔧 Skills: JavaScript / React / Node.js / Python / C++ / Git / MongoDB / SQL
