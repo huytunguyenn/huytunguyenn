@@ -1,6 +1,15 @@
 ### Hi there 👋 
 - 🔭
--->
+
+### Hi there 👋
+- 🏫 I am currently studying for a bachelor's degree majoring in Software Engineering at **Ho Chi Minh University of Science**
+- 🔧 Skills: JavaScript / React / Node.js / Python / C++ / Git / MongoDB / SQL
+- 👯 I’m looking to an internship
+- 🌱 I’m currently learning TypeScript / MySQL / Cucumber  
+- 📫 How to reach me: huytunguyen0408@gmail.com / fb.com//threecarbonsminusp/
+
+### Projects that I worked on: ⬇ 
+
 <!--
 **huytunguyenn/huytunguyenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
