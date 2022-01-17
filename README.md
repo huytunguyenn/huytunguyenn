@@ -3,7 +3,7 @@
 - 🔧 Skills:  JavaScript  /  React  /  Node.js  /  Python  /  C++  /  Git  /  MongoDB  /  SQL
 - 👯 I’m looking for an internship
 - 🌱 I’m currently learning TypeScript / MySQL / Cucumber / GraphQL
-- 📫 How to reach me: huytunguyen0408@gmail.com / fb.com//threecarbonsminusp/
+- 📫 How to reach me: huytunguyen0408@gmail.com 
 
 ### Projects that I worked on: ⬇ 
 
