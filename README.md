@@ -2,10 +2,10 @@
 - 🏫 I am currently studying for a bachelor's degree majoring in Software Engineering at **Ho Chi Minh University of Science**
 - 🔧 Skills:  JavaScript  /  React  /  Node.js  /  Python  /  C++  /  Git  /  MongoDB  /  SQL
 - 👯 I’m looking for an internship
-- 🌱 I’m currently learning TypeScript / MySQL / Cucumber / GraphQL
+- 🌱 I’m currently learning TypeScript / Cucumber / GraphQL
 - 📫 How to reach me: huytunguyen0408@gmail.com 
 
-### Projects that I worked on: ⬇ 
+### Some of the things that I did: ⬇ 
 
 <!--
 **huytunguyenn/huytunguyenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
