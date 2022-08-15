@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<!--
+
 - 🏫 I am currently studying for a bachelor's degree majoring in Software Engineering at **Ho Chi Minh University of Science**
 - 🔧 Skills:  JavaScript  /  React  /  Node.js  /  Python  /  C++  /  Git  /  MongoDB  /  SQL
 - 👯 I’m looking for an internship
@@ -7,7 +10,7 @@
 
 ### Some of the things that I did: ⬇ 
 
-<!--
+
 **huytunguyenn/huytunguyenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
