@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 <!--
 Here are some ideas to get you started:
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for an internship
 - 📫 How to reach me: huytunguyen0408@gmail.com 
 
-### Some of the things that I did: ⬇ 
+#### Some of the things that I did: ⬇ 
 
 ... TBD ...
 
