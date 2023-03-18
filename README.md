@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for an internship
 - 📫 How to reach me: huytunguyen0408@gmail.com 
 
-### Some of my stats:
+#### Some of my stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huytunguyenn&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&hide=html" />
